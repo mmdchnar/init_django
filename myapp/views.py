@@ -5,3 +5,7 @@ from django.shortcuts import render
 
 def index(req):
     return render(req, 'index.html')
+
+
+def _404(req, ex = None):
+    return render(req, '404.html')
