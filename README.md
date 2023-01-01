@@ -10,7 +10,7 @@
 **1-**`django-admin startproject mysite` 
 <br>
 
-**2-**`python3 manage.py startapp my app`
+**2-**`python3 manage.py startapp myapp`
 <br>
 
 **3-**`python3 manage.py migrate`
